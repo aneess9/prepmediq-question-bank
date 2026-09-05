@@ -604,20 +604,6 @@
       "explanation": "A rash is a common manifestation of dengue but is not required for diagnosis. Dengue can present with fever, headache, myalgia, nausea, and other systemic symptoms without a visible rash. The timing of the illness also influences the clinical and laboratory presentation. Appropriate antigen or antibody testing should be selected based on the day of illness and available assays. Epidemiological exposure remains an important component of diagnostic reasoning. Therefore, absence of rash should not be used to exclude dengue."
     },
     {
-      "qID": 44,
-      "category": "Medicine",
-      "difficulty": "Medium",
-      "question": "A 22-year-old man develops abrupt fever, headache, myalgia, and dry cough. He is tachycardic but has normal oxygen saturation and a clear chest examination. Which finding would most strongly suggest progression to pneumonia?",
-      "options": [
-        "Headache",
-        "Persistent myalgia",
-        "New focal crackles and pulmonary infiltrate",
-        "Decreased appetite"
-      ],
-      "answer": 2,
-      "explanation": "New focal lung findings and a radiographic infiltrate strongly suggest pneumonia. Influenza itself can cause systemic symptoms with relatively normal pulmonary examination. Secondary bacterial pneumonia can develop after or during influenza infection. Persistent myalgia and anorexia are nonspecific systemic symptoms. Hypoxemia, tachypnea, focal bronchial breath sounds, and consolidation would further increase concern for pneumonia. Therefore, a new focal infiltrate is a particularly important discriminator."
-    },
-    {
       "qID": 45,
       "category": "Medicine",
       "difficulty": "Easy",
