@@ -1,4 +1,6 @@
-"version": 1.1
+{
+  "version": 1.1,
+  "questions": [
 [
   {
     "qID": 1,
@@ -3165,3 +3167,7 @@
     "explanation": "Several medications are identified in the provided material as potential aggravating factors for psoriasis. These include chloroquine, lithium, beta-blockers, steroids, and NSAIDs. Thus, a newly introduced beta-blocker can plausibly explain worsening of previously stable disease. The source also identifies infections, psychological stress, alcohol, smoking, obesity, hypocalcemia, and trauma as possible triggers. Recognizing medication-related exacerbations is important because modifying an aggravating factor may help improve disease control. The other listed medications are not specifically identified as psoriasis triggers in the provided text."
   }
 ]
+
+    
+  ]
+}
